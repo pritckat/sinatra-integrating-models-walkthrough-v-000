@@ -1,4 +1,4 @@
-# Your TextAnalyzer model code will go here.
+# Your TextAnalyzer model code will go here. beep
 class TextAnalyzer
   attr_reader :text
  
